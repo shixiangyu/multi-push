@@ -2,6 +2,7 @@
 
 An android push library integrated with huawei, xiaomi, oppo, vivo and umeng, Developers can integrate with one key！
 
+这是一个集成了华为，小米，oppo，vivo等厂商，umeng第三方的消息推送库，开发者可一键集成，稳定，方便，快捷，该库优先厂商通道，对于非此四家的手机，默认走umeng通道
 
 ## Setup
 
